@@ -2,8 +2,8 @@ http, events, filesystem, console, buffer, globals, stream, url, path, os, proce
 
 
 CONSOLE:
-The console object is used for logging messages to the console. 
-While console.log is the most commonly used method, there are other methods that offer different functionalities.
+The console object is a simple debugging console used for logging messages. 
+While console.log is the most commonly used method, there are other methods that offer different functionalities. Some of these include console.log(), console.error(), and console.warn().
 
 FILESYSTEM:
 The Node.js file system module allows you to work with the file system on your computer.
