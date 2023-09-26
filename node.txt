@@ -1,0 +1,14 @@
+http, events, filesystem, console, buffer, globals, stream, url, path, os, process
+
+
+CONSOLE:
+The console object is used for logging messages to the console. 
+While console.log is the most commonly used method, there are other methods that offer different functionalities.
+
+FILESYSTEM:
+The Node.js file system module allows you to work with the file system on your computer.
+The File System module is commonly used to read, create, update, delete, and rename files.
+
+EVENTS:
+The events module allows you to create, emit, and handle custom or built-in events.
+They are used to as a response to actions or occurrences within a node application.
